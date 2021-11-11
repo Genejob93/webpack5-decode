@@ -1,0 +1,6 @@
+@import "base.css";
+
+body {
+    color: red;
+    background-image: url("tang.jpg");
+}
