@@ -1,6 +1,19 @@
 @import "base.css";
+@import "@/base.css";
 
-body {
+#css {
     color: red;
-    background-image: url("tang.jpg");
+    height: 500px;
+    background-color: pink;
+    background-image: url(./tang.jpg);
+}
+
+.orange {
+    color: orange;
+}
+
+#root {
+    width: 100px;
+    height: 100px;
+    transform: rotate(45deg);
 }
